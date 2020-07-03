@@ -72,6 +72,9 @@ $(document).ready(function(){
                     },
                     legend: {
                         display: false
+                    },
+                    plugins: {
+                        labels: false
                     }
                 }
             });

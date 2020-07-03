@@ -19,7 +19,7 @@
         <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
         <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
         <!-- Import chartjs-plugin-labels via CDN obtained from https://github.com/emn178/chartjs-plugin-labels -->
-        <script src="https://cdn.jsdelivr.net/gh/emn178/chartjs-plugin-labels/src/chartjs-plugin-labels.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/emn178/chartjs-plugin-labels/src/chartjs-plugin-labels.js"></script>
     </head>
     <body>
         <div class="head1">
